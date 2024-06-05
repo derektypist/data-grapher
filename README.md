@@ -6,5 +6,6 @@ FreeCodeCamp Project - Data Grapher
 
 ### Acknowledgements
 
-[FiveThirtyEight](https://github.com/fivethirtyeight/)
+- [FiveThirtyEight](https://github.com/fivethirtyeight/)
+
 
